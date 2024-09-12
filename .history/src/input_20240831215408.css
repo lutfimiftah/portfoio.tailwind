@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    h1 {
+        text-2xl text-tlw font-bold mb-2 lg:text-4xl
+    }
+};
